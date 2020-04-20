@@ -6,4 +6,4 @@ ADD src/lib_list.txt $project_dir
 
 WORKDIR $project_dir
 
-RUN pip install -r requirements.txtS
+RUN pip install -r requirements.txt
